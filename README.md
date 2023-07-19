@@ -1,6 +1,3 @@
-# 💫 About Me:
-[ENG]<br><br>I'm currently searching for a job, i want to work in a position related to IT because i'm looking to learn new skills.<br><br>I would like to work in a team to improve my logic, to help them and learn from them.<br><br>In addition, i consider myself as a curious person who is willing to learn about new technologies and tools from languages that i known.<br><br>[ESP]<br><br>Actualmente estoy buscando trabajo, quiero trabajar en una posicion IT porque estoy buscando aprender nuevas habilidades.<br><br>Me gustaria trabajar en un equipo para mejorar mi logica, ayudarlos y aprender de ellos.<br><br>Ademas, me considero una persona curiosa y que esta dispuesta a aprender sobre nuevas tecnologias y sobre herramientas de lenguajes que conozco.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-luchtenberg-3b5249202/) 
